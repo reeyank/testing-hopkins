@@ -7,7 +7,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",  # React or Next.js frontend
-    "hopkin-test.vercel.app"
+    "https://hopkin-test.vercel.app"
 ]
 
 # Add CORS middleware
